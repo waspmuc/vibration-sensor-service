@@ -61,7 +61,6 @@ function getSensorData(req, res) {
             if (response) {
                 console.log('GrovePi Version :: ' + board.version())
                 vibrationSensor = new analogSensor(1)
-
             }
         }
     })
