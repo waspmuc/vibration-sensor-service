@@ -1,2 +1,2 @@
-# Swagger JSON
-This is a swagger JSON built by the [swagger-codegen](https://github.com/swagger-api/swagger-codegen) project.
+# Vibration Sensor Service
+This sensor is located under the Tischkicker Arnim-Kreutzer-Arena and directly mounted on it. It measures the vibration intensity of the Tischkicker. Find detailed specification of the sensor here [Grove-Vibration-Sensor](http://wiki.seeed.cc/Grove-Piezo_Vibration_Sensor). Currently it delivers the measured vibration at the moment of the call. A more comprehensive response is coming soon. ;)
