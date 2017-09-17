@@ -5,7 +5,7 @@
     "version" : "1.0.0",
     "title" : "Vibration Sensor Service"
   },
-  "host" : "kicker-aka.jambit.com:10030",
+  "host" : "kicker-aka.jambit.com/vibrationsensor",
   "basePath" : "/",
   "schemes" : [ "http" ],
   "consumes" : [ "application/json" ],
